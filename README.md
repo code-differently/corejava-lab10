@@ -99,11 +99,11 @@ Note that the sample above only shows three people, please solve for all 8.
 
 #### Step 01
 
-In the package `lab15.part_b.examples` look at the file `Example01_ExplicitImport` and write comments for each line of code. When complete review with instructor.
+In the package `lab10.part_b.examples` look at the file `Example01_ExplicitImport` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_b.activity` complete the `Activity01_ExplicitImport` per the following:
+In the package `labs.lab10.part_b.activity` complete the `Activity01_ExplicitImport` per the following:
 
     Create a scanner that asks the user a question and stores it
     Once it runs properly, try deleting the import statement at the top - what happens?
@@ -122,11 +122,11 @@ Using the scanner, I was able to store your name. I see your name is Gio
 
 #### Step 01
 
-In the package `lab15.part_b.examples` look at the file `Example02_NonExplicitImport` and write comments for each line of code. When complete review with instructor.
+In the package `lab10.part_b.examples` look at the file `Example02_NonExplicitImport` and write comments for each line of code. When complete review with instructor.
 
 #### Step 02
 
-In the package `labs.lab15.part_b.activity` complete the `Activity02_NonExplicitImport` per the following:
+In the package `labs.lab10.part_b.activity` complete the `Activity02_NonExplicitImport` per the following:
 
     Utilizing the math random method, create a program that tells the user to throw a dice and informs them of the result
     Notice that there is not an import at the top of the program when invoking this method. Why?
