@@ -141,4 +141,3 @@ You rolled a: 1
 > Use Example02_ScannerUtility for reference.
 
 
-## Part C
