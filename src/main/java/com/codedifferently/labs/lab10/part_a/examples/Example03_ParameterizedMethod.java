@@ -5,11 +5,12 @@ public class Example03_ParameterizedMethod {
         System.out.println(a * b);
     }
     static void MethodWithStrings(String firstName, String lastName) {
-        System.out.println("Hello, my full name is " + firstName + " " + lastName);
+        System.out.println("Hi! My name is " + firstName + " " + lastName);
     }
 
     public static void main(String[] args) {
         MultiplicationMethod(5,5);
-        MethodWithStrings("Kaleb", "Burd");
+        MethodWithStrings("Slim", "Shady");
     }
 }
+ 
